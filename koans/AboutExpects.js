@@ -21,7 +21,7 @@ describe('About Expects', function() {
 
   // Some ways of asserting equality are better than others.
   it('should assert equality a better way', function() {
-    var expectedValue = FILL_ME_IN;
+    var expectedValue = 2;
     var actualValue = 1 + 1;
 
     // toEqual 또한 Jasmine Library에서 제공하는 함수입니다.
